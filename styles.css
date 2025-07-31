@@ -1,0 +1,31 @@
+/* Change background color */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+/* Style the heading */
+h1 {
+  color: #4a90e2;
+  text-align: center;
+}
+
+/* Margin around sections */
+h3, p, ul {
+  margin: 20px;
+}
+
+/* Image style */
+img {
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Button style (optional for better look) */
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
